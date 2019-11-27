@@ -1,4 +1,4 @@
-package com.in28minutes.database.databasedemo.jdbc;
+package com.in28minute.database.databasedemo.jdbc;
 
 import com.in28minute.database.databasedemo.entity.Person;
 import org.springframework.beans.factory.annotation.Autowired;
